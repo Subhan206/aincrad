@@ -108,6 +108,26 @@ Every addition should either:
 
 ---
 
+## Repository Structure
+
+```
+aincrad/
+├── docs/
+├── diagrams/
+├── screenshots/
+├── README.md
+├── CHANGELOG.md
+├── LICENSE
+└── .gitignore
+```
+
+Each major milestone is documented with:
+- Architecture diagrams
+- Screenshots
+- Lessons learned
+- Changelog entries
+- Version tags
+
 ## Project Status
 
 This project is actively being developed and documented as I continue learning Linux and self-hosting.
